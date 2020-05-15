@@ -1,5 +1,6 @@
 {
   "name": "shopgate/cart-integration-shopware",
+  "type": "shopware-backend-plugin",
   "description": "Integrates the Shopware shopping cart solution with Shopgate",
   "homepage": "https://github.com/shopgate/cart-integration-shopware",
   "license": "Apache-2.0",
